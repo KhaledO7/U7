@@ -25,5 +25,18 @@ public class Main {
 
         // trees.get(3);
 
+
+        ArrayList<String> cats = new ArrayList<>();
+        cats.add("Tails");
+        cats.add("MeowsAlot");
+        cats.add("EuropeWho?");
+        cats.add("Cheeto");
+        cats.set(2, "newCat");
+        ArrayList<String> dogs = new ArrayList<>();
+        dogs.add("I");
+        dogs.add("Hate");
+        dogs.add("Doggies");
+
+
     }
 }
